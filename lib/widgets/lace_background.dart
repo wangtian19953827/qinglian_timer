@@ -1,1 +1,80 @@
-aW1wb3J0ICdkYXJ0Om1hdGgnIGFzIG1hdGg7DQoNCmltcG9ydCAncGFja2FnZTpmbHV0dGVyL21hdGVyaWFsLmRhcnQnOw0KDQppbXBvcnQgJy4uL3RoZW1lLmRhcnQnOw0KDQpjbGFzcyBMYWNlQmFja2dyb3VuZCBleHRlbmRzIFN0YXRlbGVzc1dpZGdldCB7DQogIGNvbnN0IExhY2VCYWNrZ3JvdW5kKHtzdXBlci5rZXksIHJlcXVpcmVkIHRoaXMuY2hpbGR9KTsNCg0KICBmaW5hbCBXaWRnZXQgY2hpbGQ7DQoNCiAgQG92ZXJyaWRlDQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgew0KICAgIHJldHVybiBEZWNvcmF0ZWRCb3goDQogICAgICBkZWNvcmF0aW9uOiBjb25zdCBCb3hEZWNvcmF0aW9uKA0KICAgICAgICBncmFkaWVudDogTGluZWFyR3JhZGllbnQoDQogICAgICAgICAgYmVnaW46IEFsaWdubWVudC50b3BDZW50ZXIsDQogICAgICAgICAgZW5kOiBBbGlnbm1lbnQuYm90dG9tQ2VudGVyLA0KICAgICAgICAgIGNvbG9yczogW0FwcENvbG9ycy5iZ1RvcCwgQXBwQ29sb3JzLmJnTWlkLCBBcHBDb2xvcnMuYmdCb3R0b21dLA0KICAgICAgICAgIHN0b3BzOiBbMCwgMC40NSwgMV0sDQogICAgICAgICksDQogICAgICApLA0KICAgICAgY2hpbGQ6IFN0YWNrKA0KICAgICAgICBmaXQ6IFN0YWNrRml0LmV4cGFuZCwNCiAgICAgICAgY2hpbGRyZW46IFsNCiAgICAgICAgICBjb25zdCBDdXN0b21QYWludChwYWludGVyOiBMYWNlUGF0dGVyblBhaW50ZXIoY29sb3I6IEFwcENvbG9ycy5sYWNlKSksDQogICAgICAgICAgY2hpbGQsDQogICAgICAgIF0sDQogICAgICApLA0KICAgICk7DQogIH0NCn0NCg0KY2xhc3MgTGFjZVBhdHRlcm5QYWludGVyIGV4dGVuZHMgQ3VzdG9tUGFpbnRlciB7DQogIGNvbnN0IExhY2VQYXR0ZXJuUGFpbnRlcih7cmVxdWlyZWQgdGhpcy5jb2xvcn0pOw0KDQogIGZpbmFsIENvbG9yIGNvbG9yOw0KDQogIEBvdmVycmlkZQ0KICB2b2lkIHBhaW50KENhbnZhcyBjYW52YXMsIFNpemUgc2l6ZSkgew0KICAgIGZpbmFsIGxpbmUgPSBQYWludCgpDQogICAgICAuLmNvbG9yID0gY29sb3INCiAgICAgIC4uc3R5bGUgPSBQYWludGluZ1N0eWxlLnN0cm9rZQ0KICAgICAgLi5zdHJva2VXaWR0aCA9IDEuMQ0KICAgICAgLi5zdHJva2VDYXAgPSBTdHJva2VDYXAucm91bmQ7DQogICAgZmluYWwgZG90ID0gUGFpbnQoKQ0KICAgICAgLi5jb2xvciA9IGNvbG9yDQogICAgICAuLnN0eWxlID0gUGFpbnRpbmdTdHlsZS5maWxsOw0KDQogICAgX3NjYWxsb3BSb3coY2FudmFzLCBjb25zdCBPZmZzZXQoMCwgMTIpLCBzaXplLndpZHRoLCBsaW5lLCBkb3QpOw0KICAgIF9zY2FsbG9wUm93KGNhbnZhcywgT2Zmc2V0KDAsIHNpemUuaGVpZ2h0IC0gNjQpLCBzaXplLndpZHRoLCBsaW5lLCBkb3QpOw0KICB9DQoNCiAgdm9pZCBfc2NhbGxvcFJvdygNCiAgICBDYW52YXMgY2FudmFzLA0KICAgIE9mZnNldCBvcmlnaW4sDQogICAgZG91YmxlIHdpZHRoLA0KICAgIFBhaW50IGxpbmUsDQogICAgUGFpbnQgZG90LA0KICApIHsNCiAgICBjb25zdCBkb3VibGUgc3BhY2luZyA9IDMwOw0KICAgIGNvbnN0IGRvdWJsZSByYWRpdXMgPSA3Ow0KICAgIGZpbmFsIGNvdW50ID0gKHdpZHRoIC8gc3BhY2luZykuY2VpbCgpOw0KICAgIGZvciAodmFyIGkgPSAwOyBpIDwgY291bnQ7IGkrKykgew0KICAgICAgZmluYWwgY2VudGVyID0gT2Zmc2V0KA0KICAgICAgICBvcmlnaW4uZHggKyBpICogc3BhY2luZyArIHNwYWNpbmcgLyAyLA0KICAgICAgICBvcmlnaW4uZHkgKyByYWRpdXMsDQogICAgICApOw0KICAgICAgZmluYWwgcmVjdCA9IFJlY3QuZnJvbUNpcmNsZShjZW50ZXI6IGNlbnRlciwgcmFkaXVzOiByYWRpdXMpOw0KICAgICAgY2FudmFzLmRyYXdBcmMocmVjdCwgbWF0aC5waSwgbWF0aC5waSwgZmFsc2UsIGxpbmUpOw0KICAgICAgY2FudmFzLmRyYXdDaXJjbGUoY2VudGVyLnRyYW5zbGF0ZSgwLCAtcmFkaXVzIC0gMyksIDEuMSwgZG90KTsNCiAgICAgIGNhbnZhcy5kcmF3Q2lyY2xlKGNlbnRlci50cmFuc2xhdGUoLTYsIC0yKSwgMC45LCBkb3QpOw0KICAgICAgY2FudmFzLmRyYXdDaXJjbGUoY2VudGVyLnRyYW5zbGF0ZSg2LCAtMiksIDAuOSwgZG90KTsNCiAgICB9DQogIH0NCg0KICBAb3ZlcnJpZGUNCiAgYm9vbCBzaG91bGRSZXBhaW50KGNvdmFyaWFudCBMYWNlUGF0dGVyblBhaW50ZXIgb2xkRGVsZWdhdGUpID0+DQogICAgICBvbGREZWxlZ2F0ZS5jb2xvciAhPSBjb2xvcjsNCn0=
+import 'dart:math' as math;
+
+import 'package:flutter/material.dart';
+
+import '../theme.dart';
+
+class LaceBackground extends StatelessWidget {
+  const LaceBackground({super.key, required this.child});
+
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context) {
+    return DecoratedBox(
+      decoration: const BoxDecoration(
+        gradient: LinearGradient(
+          begin: Alignment.topCenter,
+          end: Alignment.bottomCenter,
+          colors: [AppColors.bgTop, AppColors.bgMid, AppColors.bgBottom],
+          stops: [0, 0.45, 1],
+        ),
+      ),
+      child: Stack(
+        fit: StackFit.expand,
+        children: [
+          const CustomPaint(painter: LacePatternPainter(color: AppColors.lace)),
+          child,
+        ],
+      ),
+    );
+  }
+}
+
+class LacePatternPainter extends CustomPainter {
+  const LacePatternPainter({required this.color});
+
+  final Color color;
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final line = Paint()
+      ..color = color
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 1.1
+      ..strokeCap = StrokeCap.round;
+    final dot = Paint()
+      ..color = color
+      ..style = PaintingStyle.fill;
+
+    _scallopRow(canvas, const Offset(0, 12), size.width, line, dot);
+    _scallopRow(canvas, Offset(0, size.height - 64), size.width, line, dot);
+  }
+
+  void _scallopRow(
+    Canvas canvas,
+    Offset origin,
+    double width,
+    Paint line,
+    Paint dot,
+  ) {
+    const double spacing = 30;
+    const double radius = 7;
+    final count = (width / spacing).ceil();
+    for (var i = 0; i < count; i++) {
+      final center = Offset(
+        origin.dx + i * spacing + spacing / 2,
+        origin.dy + radius,
+      );
+      final rect = Rect.fromCircle(center: center, radius: radius);
+      canvas.drawArc(rect, math.pi, math.pi, false, line);
+      canvas.drawCircle(center.translate(0, -radius - 3), 1.1, dot);
+      canvas.drawCircle(center.translate(-6, -2), 0.9, dot);
+      canvas.drawCircle(center.translate(6, -2), 0.9, dot);
+    }
+  }
+
+  @override
+  bool shouldRepaint(covariant LacePatternPainter oldDelegate) =>
+      oldDelegate.color != color;
+}
